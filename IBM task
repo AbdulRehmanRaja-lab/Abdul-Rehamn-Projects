@@ -1,0 +1,175 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "c3d7cd55-f88c-4940-a8eb-051fe56e191e",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7114318d-c462-48bf-a285-277b007d7d05",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    " # introduction\n",
+    "Data is for a person who is qurious and good at story telling. And for that you wil be needing tools which include the IDE interface and the languages. "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8b42a548-a70d-4918-8bee-97706a98ffb7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    " # data science languages\n",
+    " # python\n",
+    " # java\n",
+    " # C++\n",
+    " # Julia\n",
+    " #Scala\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a3fcaa26-c3a7-4fbc-8bb9-dda28946d6ff",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# data science libraries\n",
+    "# panda\n",
+    "# numpy\n",
+    "# tensorflow"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4fc0c6b5-496d-4902-b87d-9e8925fb9b1a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Data Science tools\n",
+    "# R\n",
+    "# Apache Hadoop\n",
+    "# Apache spark\n",
+    "# Jupyter notebook"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "392d31a1-8e83-4f1e-bc00-9fc15b04453f",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2.0"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    " ### Below are a few examples of evaluating arithmetic expressions in Python\n",
+    " (3*4)+5\n",
+    " 10/5\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "01e16f7d-2a53-4813-a356-4a4b89e675a2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.0"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(10/2)-4\n",
+    "# This a simple arithmetic expression to divide then substart integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "847a06b3-53ab-49d8-93ad-d681984e11f0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.6666666666666667"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "100/60\n",
+    "# This will convert 100 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "91c412e5-9850-498a-8c20-8c456e328ada",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "## Author\n",
+    " Abdul Rehman Raja\n",
+    " Author"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "570ce63d-6e18-411e-9a75-8885b5ba98cd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
